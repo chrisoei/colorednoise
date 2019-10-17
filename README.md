@@ -28,5 +28,6 @@ X            -0.981957  0.0050369   -194.953    <1e-99  -0.991832  -0.972082
 
 
 ```julia
-plot(df.X, df.Y)
+plot(df.X, df.Y, title="log(power) vs log(frequency)", smooth=true)
 ```
+![](pink_power_spectrum_1.png)
