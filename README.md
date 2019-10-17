@@ -1,6 +1,6 @@
 Software to generate 1/f^alpha noise, and sample data
 
-
+Here's an example, using Julia:
 ```julia
 
 using CSV, DataFrames, DSP, GLM, Plots
