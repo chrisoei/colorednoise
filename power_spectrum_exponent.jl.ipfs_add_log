@@ -1,0 +1,9 @@
+
+ipfs_add.sh UUID=c28fd0a6-52c4-11eb-8399-7e57e5dd18e6
+ipfs version 0.8.0-rc1
+hostname=ipfs2
+ipfs config Identity.PeerID=12D3KooWNiAW4wtbJsBA8j94yw75C5tw6t7G21LbWiAUyC8hDRDq
+IPFS_PATH=/home/c/.config/ipfs-public
+STARDATE=2021.027872988266381
+added QmPc9drrC3et5zZhpviMmfU8v7CmjREj515nfwPhpSoeoK power_spectrum_exponent.jl
+added QmPcU5PKrpJ9RiBd2Q6SoeVFwGkMMNi6sKoJUsuPkqSeHZ 
